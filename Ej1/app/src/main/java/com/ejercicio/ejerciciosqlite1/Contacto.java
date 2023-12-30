@@ -47,7 +47,7 @@ public class Contacto {
     }
 
     public Contacto setId(Integer id) {
-        this.tlf = tlf;
+        this.id = id;
         return this;
     }
 }
